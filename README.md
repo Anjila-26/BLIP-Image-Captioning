@@ -53,6 +53,10 @@ BLIP is a state-of-the-art vision-language model developed by Salesforce Researc
 3. **Attention Mechanism**: Focuses on relevant image regions while generating text
 4. **Beam Search**: Ensures high-quality, coherent caption generation
 
+### Model Architecture
+<img src = "screenshots/blip.png"/>
+
+
 ## 🏗 Project Structure
 
 ```
