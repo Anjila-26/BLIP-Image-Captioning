@@ -117,7 +117,7 @@ Assignment 5/
 
 3. **Start the development server:**
    ```bash
-   npm run dev
+    npx next dev
    ```
 
    The frontend will be available at `http://localhost:3000`
@@ -140,7 +140,7 @@ Upload an image file for captioning.
 
 **Request**: Multipart form data with `uploaded_file` field
 **Response**: 
-<img src = "upload.png"/>
+<img src = "screenshots/upload.png"/>
 
 ### POST `/caption/link`
 Process an image from a URL.
@@ -153,7 +153,7 @@ Process an image from a URL.
 ```
 
 **Response**: 
-<img src = "url.png"/>
+<img src = "screenshots/url.png"/>
 
 ### Error Responses
 ```json
